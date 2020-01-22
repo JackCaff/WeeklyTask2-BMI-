@@ -9,4 +9,4 @@ BMI = (Weight / Meters_squared) * 100
 
 new_BMI = round(BMI, 2) #Rounds BMI value too 2 decimals places
 
-print("Your BMI is", new_BMI,) #Calculates the users BMI 
+print("Your BMI is", new_BMI,) #Displays the users BMI 
