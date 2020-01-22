@@ -3,7 +3,7 @@
 Weight = float(input("Enter your Weight in Kg: "))  #Allows user to enter Weight
 Height = float(input("Enter your Height in Cm: "))  #Allows user to enter Height
 
-Meters_squared = ((Height * Height) / 100) #Converts height entered in CM to Metered squared
+Meters_squared = ((Height * Height) / 100) #Converts height entered in CM to Meters squared
 
 BMI = (Weight / Meters_squared) * 100
 
